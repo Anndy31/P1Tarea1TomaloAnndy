@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1730563139 source:c:\users\asus\desktop\p1tarea1tomaloanndy\main.cpp
+	<iostream>
+	<string.h>
+	"Menu.h"
+	"Proceso.h"
+
+1730565390 c:\users\asus\desktop\p1tarea1tomaloanndy\menu.h
+	<iostream>
+	<string.h>
+
+1730565472 c:\users\asus\desktop\p1tarea1tomaloanndy\proceso.h
+	<iostream>
+	<fstream>
+
